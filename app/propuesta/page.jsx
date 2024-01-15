@@ -33,10 +33,10 @@ export default function propuesta() {
           <p>Ahora ya no hay vuelta atras y regalame besos hasta el fin de los tiempos</p>
         </div>
         :
-        <div className="dark:text-white">
+        <div className="dark:text-white flex justify-center flex-col">
         <p className="text-xl my-2">Hoy entre mi amor y cariño que te tengo y seguir construyendo anécdotas ,experiencias</p>
         <p className="text-2xl text-center">¿Quieres ser mi novia,compañera de vida,complice?</p>
-        <div className="flex">
+        <div className="flex justify-center">
           <Image
             className="flex w-[300px] h-[300px] rounded-full"
             src='/assets/hands.jpeg'

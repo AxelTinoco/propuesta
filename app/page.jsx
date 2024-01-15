@@ -4,7 +4,6 @@ import { useState } from "react";
 
 export default function Home() {
 
-  const [state, setstate] = useState();
   const router = useRouter()
 
   const handleClick = () => {
